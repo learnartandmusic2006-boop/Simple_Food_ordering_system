@@ -1,0 +1,1 @@
+This is the simple food ordering system which follows the client-server architect
